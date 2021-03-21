@@ -1,7 +1,7 @@
-# pomodoropy
+# Pomodoropy
 Pomodoro timer with Notifications
 
-## requirements
+## Requirements
 * plyer
 
 ### To Install Requirements 
