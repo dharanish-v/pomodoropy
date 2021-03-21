@@ -2,4 +2,4 @@
 Pomodoro timer with Notifications
 
 ## requirements
-* pyler
+* plyer
