@@ -14,4 +14,4 @@ pomodoro will create a directory with the name *pomodoro_logs* in the currenty w
 * go to run and type **shell:startup**
 * open it and paste the shortcut inside the startup directory
 * This will make the python script run in background when windows boot
-* and make sure you install the requirements on python specified in you system path
+* and make sure you install the requirements on python specified in your system path
